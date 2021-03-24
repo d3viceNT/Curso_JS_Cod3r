@@ -34,4 +34,34 @@ function local() {
 }
 
 local();
-//console.log( localVar ); // Será retornado um erro devido ao escopo da variável
+//console.log( localVar ); // Será retornado um erro devido ao escopo da variável 
+
+console.log("");
+console.log("------------------");
+console.log("");
+
+// As variáveis declaradas com let respeitarão o escopo mais específico
+let numero = 2;
+{
+    let numero = 'dentro'; // Se fosse declarado com var, sobrescreveria o valor da variável numero fora do escopo
+    console.log( numero );
+}
+console.log( numero );
+
+console.log("");
+console.log("------------------");
+console.log("");
+
+for (var x = 0; x < 10; x++) {
+    console.log(x); 
+}
+console.log("x =", x);
+
+console.log("");
+console.log("------------------");
+console.log("");
+
+for (let y = 0; y < 10; y++) {
+    console.log(y); 
+}
+// console.log("y =", y); // Será retornado um erro, pois y não está declarado nesse escopo
