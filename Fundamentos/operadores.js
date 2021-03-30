@@ -20,7 +20,7 @@ console.log(b)
 console.log()
 console.log('------------------')
 
-/* OPERADORES DE ATRIBUIÇÂO */
+/* OPERADORES DE DESESTRUTURAÇÃO */
 
 const pessoa = {
     nome: "Ana",
@@ -29,7 +29,7 @@ const pessoa = {
         rua: "Rua legal",
         numero: 75
     }
-}
+}       
 
 const { nome: n, idade: i } = pessoa // definindo novas variaveis a partir da desestruturação
 console.log(n)
@@ -42,3 +42,7 @@ console.log(sexo)
 const { endereco: { rua: r, numero: num} } = pessoa // desestruturando objeto dentro de objeto 
 console.log(r)
 console.log(num)
+
+const [, [, x, y]] = [[2, 3], ['a', 7, 9]] // Desestruturando elementos em arrays
+console.log(x)
+console.log(y)
