@@ -46,3 +46,18 @@ console.log(num)
 const [, [, x, y]] = [[2, 3], ['a', 7, 9]] // Desestruturando elementos em arrays
 console.log(x)
 console.log(y)
+
+/* OPERADORES RELACIONAIS */
+
+console.log('01)', '1' == 1);
+console.log('02)', '1' === 1);
+console.log('03)', '3' != 3);
+console.log('04)', '3' !== 3);
+
+console.log('05)', 3 < 2);
+console.log('06)', 3 > 2);
+console.log('07)', 3 <= 2);
+console.log('08)', 3 >= 2);
+
+console.log('09)', undefined == null);
+console.log('10)', undefined === null);
