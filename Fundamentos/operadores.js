@@ -77,7 +77,7 @@ function compras(trabalho1, trabalho2) {
     // const comprarTV32 = !!(trabalho1 ^ trabalho2); // bitwise XOR
     const comprarTV32 = trabalho1 != trabalho2; // XOR
     const manterSaudavel = !comprarSorvete; // Operador unário
-
+    
     return { comprarSorvete, comprarTV50, comprarTV32, manterSaudavel }
 }
 
@@ -85,3 +85,30 @@ console.log( compras( true, true ) )
 console.log( compras( true, false ) )
 console.log( compras( false, true ) )
 console.log( compras( false, false ) )
+
+
+console.log()
+console.log('------------------')
+
+/* OPERADORES UNARIOS */
+
+let num1 = 1;
+let num2 = 2;
+
+num1++ // post fixed
+console.log(num1)
+--num1 // pre fixed
+console.log(num1)
+
+console.log( ++num1 === num2-- )
+console.log( num1 === num2 )
+
+console.log()
+console.log('------------------')
+
+/* OPERADORES TERNARIOS */
+
+const resultado = nota => nota >= 7 ? "Aprovado" : "Reprovado"
+
+console.log(resultado(7.1))
+console.log(resultado(6.1))
