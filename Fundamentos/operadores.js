@@ -103,6 +103,9 @@ console.log(num1)
 console.log( ++num1 === num2-- )
 console.log( num1 === num2 )
 
+// Potenciação
+console.log(2 ** 3) // Mesmo que 2³
+
 console.log()
 console.log('------------------')
 
