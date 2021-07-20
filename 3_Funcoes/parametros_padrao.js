@@ -26,6 +26,7 @@ console.log(soma2(0, 0, 0)); // 0
 
 console.log("\n-------------------------\n");
 
+// A partir do ES5
 function soma3(x =1, y =1, z =1){
     return x + y + z;
 }
