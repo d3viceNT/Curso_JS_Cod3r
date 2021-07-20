@@ -9,21 +9,54 @@
 Neste curso é abordado o desenvolvimento Web de ponta a ponta, possibilitando a construção de aplicações com as principais tecnologias do mercado. São abordados também, os paradigmas de programação usados na Web Moderna: Funcional, Orientação a Objeto e Aplicações Web baseadas em Componentes. 
 
 ### Tecnologias abordadas
-- Javascript
-- Node.js
-- HTML
-- CSS
-- Gulp
-- Webpack
-- jQuery
-- Bootstrap
-- React 
-- Angular
-- Vue JS
-- ExpressJS
-- MySQL
-- MongoDB
-- Electron
+<!-- - ![](./.github/js.png) Javascript
+- ![](./.github/node.png) Node.js
+- ![](./.github/html.png) HTML
+- ![](./.github/css.png) CSS
+- ![](./.github/gulp.png) Gulp
+- ![](./.github/webpack.png) Webpack
+- ![](./.github/jquery.png) jQuery
+- ![](./.github/bootstrap.png) Bootstrap
+- ![](./.github/react.png) React 
+- ![](./.github/angular.png) Angular
+- ![](./.github/vue.png) Vue JS
+- ![](./.github/express.png) ExpressJS
+- ![](./.github/mysql.png) MySQL
+- ![](./.github/mongo.png) MongoDB
+- ![](./.github/electron.png) Electron -->
+
+
+
+<table>
+  <tr>
+    <!-- <td align="center" colspan="3"><b>Tecnologias abordadas</b></td> -->
+  </tr>
+  <tr>
+    <td><img src="./.github/js.png" /> Javascript</td>
+    <td><img src="./.github/node.png" /> Node.js</td>
+    <td><img src="./.github/html.png" /> HTML</td>
+  </tr>
+  <tr>
+    <td><img src="./.github/css.png" /> CSS</td>
+    <td><img src="./.github/gulp.png" /> Gulp</td>
+    <td><img src="./.github/webpack.png" /> Webpack</td>
+  </tr>
+  <tr>
+    <td><img src="./.github/jquery.png" /> jQuery</td>
+    <td><img src="./.github/bootstrap.png" /> Bootstrap</td>
+    <td><img src="./.github/react.png" /> React</td>
+  </tr>
+  <tr>
+    <td><img src="./.github/angular.png" /> Angular</td>
+    <td><img src="./.github/vue.png" /> Vue JS</td>
+    <td><img src="./.github/express.png" /> ExpressJS</td>
+  </tr>
+  <tr>
+    <td><img src="./.github/mysql.png" /> MySQL</td>
+    <td><img src="./.github/mongo.png" /> MongoDB</td>
+    <td><img src="./.github/electron.png" /> Electron</td>
+  </tr>
+</table>
 
 ### Conteúdo do curso
 - [Fundamentos](./1_Fundamentos/)
