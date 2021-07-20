@@ -8,24 +8,9 @@
 
 Neste curso é abordado o desenvolvimento Web de ponta a ponta, possibilitando a construção de aplicações com as principais tecnologias do mercado. São abordados também, os paradigmas de programação usados na Web Moderna: Funcional, Orientação a Objeto e Aplicações Web baseadas em Componentes. 
 
-### Tecnologias abordadas
-<!-- - ![](./.github/js.png) Javascript
-- ![](./.github/node.png) Node.js
-- ![](./.github/html.png) HTML
-- ![](./.github/css.png) CSS
-- ![](./.github/gulp.png) Gulp
-- ![](./.github/webpack.png) Webpack
-- ![](./.github/jquery.png) jQuery
-- ![](./.github/bootstrap.png) Bootstrap
-- ![](./.github/react.png) React 
-- ![](./.github/angular.png) Angular
-- ![](./.github/vue.png) Vue JS
-- ![](./.github/express.png) ExpressJS
-- ![](./.github/mysql.png) MySQL
-- ![](./.github/mongo.png) MongoDB
-- ![](./.github/electron.png) Electron -->
+<br>
 
-
+## Tecnologias abordadas
 
 <table>
   <tr>
@@ -58,7 +43,9 @@ Neste curso é abordado o desenvolvimento Web de ponta a ponta, possibilitando a
   </tr>
 </table>
 
-### Conteúdo do curso
+<br>
+
+## Conteúdo do curso
 - [Fundamentos](./1_Fundamentos/)
 - [Estruturas de Controle](./2_Estruturas_de_Controle/)
 - [Funções em Js](./3_Funcoes/)
