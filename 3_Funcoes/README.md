@@ -6,5 +6,6 @@ Neste diretório estão contidos os códigos de exemplo para o uso dos diversos 
 - [Parâmetro de funções](./parametros.js)
 - [Parâmetro variáveis em funções](./parametros_variaveis.js)
 - [Valores padrão para parâmetros em funções](./parametros_padrao.js)
+- [Comportamento do "this" em funções e uso da função "bind" ](./thisAndBind.js)
 
 
