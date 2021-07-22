@@ -7,5 +7,9 @@ Neste diretório estão contidos os códigos de exemplo para o uso dos diversos 
 - [Parâmetro variáveis em funções](./parametros_variaveis.js)
 - [Valores padrão para parâmetros em funções](./parametros_padrao.js)
 - [Comportamento do "this" em funções e uso da função "bind" ](./thisAndBind.js)
+- [Arrow Functions" ](./arrow_functions.js)
+- [Funções anônimas" ](./funcoes_anonimas.js)
+- [Funções callback" ](./funcoes_callback.js)
+- [Funções Construtoras" ](./funcao_construtora.js)
 
 
