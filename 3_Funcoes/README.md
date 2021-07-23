@@ -11,5 +11,8 @@ Neste diretório estão contidos os códigos de exemplo para o uso dos diversos 
 - [Funções anônimas" ](./funcoes_anonimas.js)
 - [Funções callback" ](./funcoes_callback.js)
 - [Funções Construtoras" ](./funcao_construtora.js)
+- [Formas de declarar Funções em JS" ](./declaracao_de_funcoes.js)
+- [Contexto léxico e Closure" ](./contexto_lexico_closure.js)
+- [Funções Factory" ](./funcao_factory.js)
 
 
