@@ -14,5 +14,8 @@ Neste diretório estão contidos os códigos de exemplo para o uso dos diversos 
 - [Formas de declarar Funções em JS" ](./declaracao_de_funcoes.js)
 - [Contexto léxico e Closure" ](./contexto_lexico_closure.js)
 - [Funções Factory" ](./funcao_factory.js)
+- [Funções Auto-invocadas" ](./iife.js)
+- [Call e Apply" ](./call_apply.js)
+- [Exercícios do módulo" ](./exercicios/listaExerciciosFuncoes.js)
 
 
