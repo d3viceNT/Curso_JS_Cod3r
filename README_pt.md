@@ -10,8 +10,8 @@
       <img alt="Marco Aurélio" src="https://img.shields.io/badge/-Marco Aurélio-000?style=flat&logo=Linkedin&logoColor=000&labelColor=63DCFE" />
    </a>
 
-   <a href="./README_pt.md">
-      <img alt="English" src="https://img.shields.io/badge/-Read in Portuguese -000?style=flat&logo=google-translate&logoColor=000&labelColor=63DCFE" />
+   <a href="./README.md">
+      <img alt="English" src="https://img.shields.io/badge/-Leia em inglês -000?style=flat&logo=google-translate&logoColor=000&labelColor=63DCFE" />
    </a>
 
 
@@ -22,11 +22,11 @@
 
 </p>
 
-In this course, end-to-end Web development is addressed, enabling the construction of applications with the main technologies in the market. The programming paradigms used in the Modern Web are also discussed: Functional, Object-Oriented and Component-based Web Applications. 
+Neste curso é abordado o desenvolvimento Web de ponta a ponta, possibilitando a construção de aplicações com as principais tecnologias do mercado. São abordados também, os paradigmas de programação usados na Web Moderna: Funcional, Orientação a Objeto e Aplicações Web baseadas em Componentes. 
 
 <br>
 
-## :computer: Technologies
+## Tecnologias abordadas
 
 <table>
   <tr>
@@ -61,7 +61,7 @@ In this course, end-to-end Web development is addressed, enabling the constructi
 
 <br>
 
-## :books: Course content 
-- [Fundamentals](./1_Fundamentos/)
-- [Control Structures](./2_Estruturas_de_Controle/)
-- [JS Functions](./3_Funcoes/)
+## Conteúdo do curso
+- [Fundamentos](./1_Fundamentos/)
+- [Estruturas de Controle](./2_Estruturas_de_Controle/)
+- [Funções em Js](./3_Funcoes/)
